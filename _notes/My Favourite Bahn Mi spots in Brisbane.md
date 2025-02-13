@@ -20,6 +20,6 @@ title: Top Bahn Mi spots in Brisbane
  > My partner and his family rate the crackling pork bahn mi from Bahn Mee in Hamilton.
 
 ## Spots on my radar
-- [ ] Pho Hung Voung in Paddington
-- [ ] Anna's Bahn Mi Co in West End
-- [ ] Bill's Takeaway in Inala
+- [ ] Try Pho Hung Voung in Paddington
+- [ ] Try Anna's Bahn Mi Co in West End
+- [ ] Try Bill's Takeaway in Inala

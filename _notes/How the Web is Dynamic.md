@@ -11,10 +11,12 @@ Relies on heavy use of DOM (how the browser store and manipulates pages) scripti
 - Hide, delete or move page elements
 Today, a lot of this can be achieved with CSS but at the time, CSS was quite limited.
 
-` What is remote scripting?! `
+- [ ] What is remote scripting? (Low priority)
 
-Dynamic HTML is a major component of AJAX. It's a technique of developing interfaces that relies on extended HTML, CSS, Javascript and DOM. No one really uses this term in the real world, perhaps in an academic setting. It's just the way things are done now.
+Dynamic HTML is a major component of AJAX. It's a technique of developing interfaces that relies on extended HTML, CSS, Javascript and DOM. No one really uses this term in the real world (perhaps in an academic setting). It's just the way things are done now.
 
 AJAX = DHTML + XMLHttpRequest
 
-![[IDF_AJAXApplied.png]]
+All major modern web applications have moved on to JSON, so AJAJ is definitely more relevant to today's web standards.
+
+- [ ] Update this page with current techniques and applications

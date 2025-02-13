@@ -1,4 +1,7 @@
 ---
 title: Improve my thinking
 ---
-To articulate myself better and think more clearly.
+My goals:
+- Articulate myself better
+- Think more clearly
+	- No need to hurt my brain with overthinking. Just introduce more structure to my thoughts.
