@@ -1,10 +1,15 @@
 ---
-title: How I note take with Obsidian
+title: My first note
+case study:
 ---
 
-### Welcome!
+### Hello online beings
 
 This is where I explore my ideas and share them publicly so others can read and provide feedback to help me [[Improve my thinking|improve my thinking]].
+
+This garden is in its infancy, so you may see an odd thing floating around sometimes.
+
+The following content on this page is for my use only as I experiment with how this digital garden works.
 
 ### Media embedding
 
