@@ -7,7 +7,7 @@ We live **half** of our lives in transitions.
 
 Transitions typically look like this: Long goodbye —> Messy middles —> New beginnings
 
-Bruce Feiler identified these phases of transitions to master the art of change:
+Bruce Feiler's research identified these phases of transitions to master the art of change:
 - Accept the past and identify emotions
 - Mark growth and ritualise it
 - Shed it and discard old narratives
