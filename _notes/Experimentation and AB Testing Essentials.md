@@ -3,16 +3,18 @@ title: A/B Testing Essentials
 ---
 Why A/B test? Validate business decisions? Sure. It's really about growing your learning through experimentation. In UX terms, this is called [[validated learning]].
 
+AI is becoming better at doing simple A/B tests.
+
 Essential questions before considering implementing any A/B test:
-### Do I have enough data?
+### 1. Do I have enough data?
 1,000 and more conversions a month is needed to get meaningful results from an A/B test. 
 
 Not everything should be A/B tested and the amount of data is a huge reason for skipping the test, and focusing effort on taking a risk instead.
 
-### Do I know what I'd like to learn?
+### 2. Do I know what I'd like to learn?
 - Hypothesis
 
-### What results am I expecting?
+### 3. What results am I expecting?
 - 
 
 ## Best practices for A/B testing

@@ -5,7 +5,7 @@ case study:
 
 ### Hello online beings
 
-This is where I explore my ideas and share them publicly so others can read and provide feedback to help me [[Improve my thinking|improve my thinking]].
+This is where I explore my ideas and share them publicly so others can read and provide feedback to help me [[Improve my thinking by writing|improve my thinking]].
 
 This garden is in its infancy, so you may see the odd thing floating around sometimes.
 
